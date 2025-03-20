@@ -14,10 +14,6 @@ npm run dev
 - Se usará, en el backend, vertical slicing
 - Cada uno tendra su rama "jhon-dev" "alejo-dev" "juan-dev"
 - Para trabajar vamos a usar \[nombre\]\_\[responsabilidad\] "juan\_product-order"
-- No se alimentará a Alejandro después de las 8 pm.
-- No se alimentará a Juan antes de las 12 pm.
-- Jhon no se alimenta.
-- **Por ahora** Se va a usar la rama main **SOLO** para documentacion.
 
 ## Backend
 ### Domains
